@@ -1,0 +1,24 @@
+<!--pages/profile/message/message.wxml-->
+<view class='cell'>
+  <view class='cell-list'>
+    <view class='cell-img'><image src='/images/icon/youhui.png' lazy-load></image></view>
+    <view class='cell-item'>
+      <text class='cell-title'>优惠活动</text>
+      <text class='ell'>无需电脑就能打印快递单的神器~快递100云盒特价999</text>
+    </view>
+  </view>
+  <view class='cell-list'>
+    <view class='cell-img'><image src='/images/icon/news.png' lazy-load></image></view>
+    <view class='cell-item'>
+      <text class='cell-title'>新闻资讯</text>
+      <text class='ell'>提高警惕，谨防上当</text>
+    </view>
+  </view>
+  <view class='cell-list'>
+    <view class='cell-img'><image src='/images/icon/system.png' lazy-load></image></view>
+    <view class='cell-item'>
+      <text class='cell-title'>系统消息</text>
+      <text class='ell'>停服维护公告</text>
+    </view>
+  </view>
+</view>

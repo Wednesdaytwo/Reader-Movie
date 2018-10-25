@@ -1,0 +1,29 @@
+<!--pages/profile/profile.wxml-->
+<!--头像  -->
+<view class='avatar'>
+   <open-data type="userAvatarUrl" class="user-header"></open-data>
+</view>
+<!--灰色分隔块  -->
+<!--常见问题  -->
+<view class='divider'></view>
+<view class='cell'>
+  <view class='cell-item arrow' bindtap='toQuestion'>
+    <text>常见问题</text>
+  </view>
+  <view class='cell-item arrow' bindtap='toTerms'>
+    <text>使用条款</text>
+  </view>
+  <view class='cell-item arrow' bindtap='toMessage'>
+    <text>消息中心</text>
+  </view>
+  <view class='cell-item arrow' bindtap='toContact'>
+    <text>联系我们</text>
+  </view>
+</view>
+<!--设置  -->
+<view class='divider'></view>
+<view class='cell'>
+  <view class='cell-item arrow' bindtap='toAdvice'>
+    <text>意见反馈</text>
+  </view>
+</view>

@@ -1,0 +1,10 @@
+<view class="container">
+   <open-data type="userAvatarUrl" class="user-header"></open-data>
+   <open-data type="userNickName" class="user-name"></open-data>
+   <view class="moto-container" bindtap="onTap">
+       <text class="moto">开启阅读之旅</text>
+   </view>
+   <view class="moto-container" catchtap="scanQRCode" style="margin-top:30rpx;">
+       <text class="moto">扫一扫</text>
+   </view>
+</view>

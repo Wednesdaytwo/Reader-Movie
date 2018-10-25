@@ -1,0 +1,13 @@
+
+.cell{
+  width: 100%;
+  marign-top:20rpx;
+}
+.cell-title,.cell-txt{
+  padding:20rpx 30rpx;
+}
+.cell-title-content{
+  font-size: 32rpx;
+  font-weight: bold;
+  color:#333;
+}

@@ -1,0 +1,37 @@
+<!--pages/profile/question/question.wxml-->
+<view class='cell'>
+  <view class='cell-title'>
+    <text class='cell-title-content'>如何编辑/取消抽奖</text>
+  </view>
+  <view class='cell-txt'>
+    <text>已有参与者的活动，不可编辑或取消。未参与的情况下，可以进行重新编辑，或者选择不分享即可</text>
+  </view>
+</view>
+<view class='divider'></view>
+<view class='cell'>
+  <view class='cell-title'>
+    <text class='cell-title-content'>未收到奖品</text>
+  </view>
+  <view class='cell-txt'>
+    <text>奖品是由抽奖发起人提供的，直接寄送到你提供的地址，抽奖助手暂不进行物流跟踪，通常到货时间在两周内。请确保地址在有效期内已填写，并满足发起者在奖品界面填写的要求说明。如遇虚假抽奖，请进入客服投诉连接填写信息，我们会酌情对发起者处罚。</text>
+  </view>
+</view>
+<view class='divider'></view>
+<view class='cell'>
+  <view class='cell-title'>
+    <text class='cell-title-content'>分享方式</text>
+  </view>
+  <view class='cell-txt'>
+    <text>1、发起后点击发送抽奖邀请，选择生成分享图片并保存，即可分享到微信朋友圈或者其他媒体。图片可被二次转发。2、固定参与者，可在发送抽奖邀请里，选择邀请微信好友，选择对话框或者微信群。此形式不可被二次转发。</text>
+  </view>
+</view>
+<view class='divider'></view>
+<view class='cell'>
+  <view class='cell-title'>
+    <text class='cell-title-content'>什么是组队抽奖</text>
+  </view>
+  <view class='cell-txt'>
+    <text>组队抽奖可鼓励参与者多分享，吸引更多人加入抽奖活动。如中奖者为组队成员，则每人得到一份奖品。发起者如使用了高级版本中的[开启组队]功能，则需要准备奖品数目*组队最多人数相应分量的奖品。</text>
+  </view>
+</view>
+<view class='divider'></view>

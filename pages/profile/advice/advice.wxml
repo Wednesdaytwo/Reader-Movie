@@ -1,0 +1,10 @@
+<!--pages/profile/advice/advice.wxml-->
+<view class='commit'> 
+  <textarea class='text' placeholder='请填写10个字以上的意见或者建议，以便我们提供更好的服务'></textarea>
+</view>
+<view class='phone'>
+  <input type='text' class='num' placeholder='手机号(选填，便于我们与你答复)'></input>
+</view>
+<view class='submit'>
+  <button>提交</button>
+</view>

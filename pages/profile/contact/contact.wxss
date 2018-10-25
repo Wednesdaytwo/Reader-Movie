@@ -1,0 +1,13 @@
+page{
+  
+}
+.contact{
+  width:100%;
+  display:flex;
+  flex-direction: column;
+  line-height: 34px;
+}
+.wechat image{
+  width:300rpx;
+  height:300rpx;
+}

@@ -1,0 +1,24 @@
+<!--pages/profile/contact/contact.wxml-->
+<view class='contact cell'>
+  <view class='cell-item'>
+    <text>商务合作：ZhwLy8280@163.com</text>
+  </view>
+  <view class='cell-item'>
+    <text>广告投放：1911936215@qq.com</text>
+  </view> 
+  <view class='cell-item'>
+    <text>客服热线：18084887023</text>
+  </view>
+  <view class='cell-item'>
+    <text>服务时间： 工作日(8:30-12:00 13:30-20:30) 节假日(9:00-12:00 13:30-19:00)</text>
+  </view>  
+  <view class='cell-item'>
+    <text>微信号：Wednesday_2</text>
+  </view>
+  <view class='wechat cell-item'>
+    <image src='/images/avatar/wechat.jpg' mode='' lazy-load></image>
+  </view>
+  <view class='cell-item'>
+    <text>联系地址：成都市高新西区天目路77号</text>
+  </view>
+</view>

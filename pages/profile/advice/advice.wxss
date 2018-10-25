@@ -1,0 +1,32 @@
+/* pages/profile/advice/advice.wxss */
+page{
+  background-color: #eee
+}
+.commit,.phone{
+  width:100%;
+  padding: 20rpx;
+  
+}
+.text{
+  width:86%;
+  height:400rpx;
+  background-color: #fff;
+  padding:30rpx;
+  font-size: 14px;
+}
+.num{
+  width:92%;
+  background-color: #fff;
+  padding:10rpx;
+  font-size: 14px
+}
+.submit{
+  padding:20rpx;
+}
+.submit button{
+  width:80%;
+  border-radius: 20rpx;
+  background-color: #fc0;
+  color:#fff;
+  font-family: "微软雅黑"
+}
